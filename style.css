@@ -10,9 +10,3 @@
     max-width: 100%;
     max-height: auto;
 }
-
-.header {
-    display: block;
-    flex-direction: row;
-}
-
